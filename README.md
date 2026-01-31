@@ -1,4 +1,4 @@
-I used ChatGPT to add some features that I wanted to the program in a GUI format and then packaged that as a single executable or a directory with dependencies inside it. All of this is pushed in the Zipped Release. I might update this in the future if I make more changes.
+I used ChatGPT to add some features that I wanted to the program in a GUI format and then packaged that as a single executable or a directory with dependencies inside it. All of this is pushed in the Zipped Release. I might update this in the future if I make more changes. My version is a little behind the official release documentation below and the files from the fork. 
 
 # City Map Poster Generator
 
